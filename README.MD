@@ -1,0 +1,3 @@
+# KATA
+
+    Author: Jeremiah Ngige
