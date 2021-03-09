@@ -13,5 +13,6 @@ print('Matrix is....')
 for i in range(a):
     for j in range(b):
         print(m[i][j], end=' ')
-        
     print()
+    
+print(m)
